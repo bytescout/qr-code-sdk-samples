@@ -1,0 +1,24 @@
+## Index of source code examples:
+
+\C#
+\VB.NET
+\VBScript and VB6
+\C#\Binary Data
+\C#\Colored QR Code
+\C#\General Example
+\C#\GS1 QR Code
+\C#\QR Code With Image
+\C#\Unicode Value
+\C#\vCard QR Code
+\VB.NET\Binary Data
+\VB.NET\Colored QR Code
+\VB.NET\General Example
+\VB.NET\GS1 QR Code
+\VB.NET\QR Code With Image
+\VB.NET\Unicode Value
+\VB.NET\vCard QR Code
+\VBScript and VB6\Colored QR Code
+\VBScript and VB6\General Example
+\VBScript and VB6\GS1 QR Code
+\VBScript and VB6\QR Code With Image
+\VBScript and VB6\Unicode Value

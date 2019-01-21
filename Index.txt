@@ -3,22 +3,21 @@
 \C#
 \VB.NET
 \VBScript and VB6
-\C#\Binary Data
-\C#\Colored QR Code
-\C#\General Example
-\C#\GS1 QR Code
-\C#\QR Code With Image
-\C#\Unicode Value
-\C#\vCard QR Code
-\VB.NET\Binary Data
-\VB.NET\Colored QR Code
-\VB.NET\General Example
-\VB.NET\GS1 QR Code
-\VB.NET\QR Code With Image
-\VB.NET\Unicode Value
-\VB.NET\vCard QR Code
-\VBScript and VB6\Colored QR Code
-\VBScript and VB6\General Example
-\VBScript and VB6\GS1 QR Code
-\VBScript and VB6\QR Code With Image
-\VBScript and VB6\Unicode Value
+\C#\convert vCard to QR Code
+\C#\create Colored QR Code
+\C#\create GS1 QR Code
+\C#\create qr code with Binary Data
+\C#\create qr code with Unicode Value
+\C#\make QR Code With Image
+\VB.NET\convert vCard to QR Code barcode
+\VB.NET\create Colored QR Code barcode
+\VB.NET\encode Binary Data to qr code
+\VB.NET\generate GS1 QR Code
+\VB.NET\generate QR Code With Image inside
+\VB.NET\generate qr code with Unicode Value
+\VB.NET\generate simple qr code
+\VBScript and VB6\create Colored QR Code
+\VBScript and VB6\create GS1 QR Code
+\VBScript and VB6\create simple qr code barcode
+\VBScript and VB6\encode Unicode Value to qr code
+\VBScript and VB6\make QR Code With embedded Image

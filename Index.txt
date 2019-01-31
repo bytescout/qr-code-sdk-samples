@@ -8,6 +8,7 @@
 \C#\create GS1 QR Code
 \C#\create qr code with Binary Data
 \C#\create qr code with Unicode Value
+\C#\Create Simple QR Code
 \C#\make QR Code With Image
 \VB.NET\convert vCard to QR Code barcode
 \VB.NET\create Colored QR Code barcode

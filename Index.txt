@@ -17,6 +17,7 @@
 \VB.NET\Generate QR Code With Image Inside
 \VB.NET\Generate QR Code with Unicode Value
 \VB.NET\Generate Simple QR Code
+\VBScript and VB6\Command Line Use
 \VBScript and VB6\Create Colored QR Code
 \VBScript and VB6\Create GS1 QR Code
 \VBScript and VB6\Create Simple QR Code Barcode

@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \C#
+\Microsoft Access
 \VB.NET
 \VBScript and VB6
 \C#\Convert vCard to QR Code
@@ -10,6 +11,7 @@
 \C#\Create QR Code with Unicode Value
 \C#\Create Simple QR Code
 \C#\Make QR Code With Image
+\Microsoft Access\Add Barcode to Report
 \VB.NET\Convert vCard to QR Code Barcode
 \VB.NET\Create Colored QR Code Barcode
 \VB.NET\Encode Binary Data to QR Code

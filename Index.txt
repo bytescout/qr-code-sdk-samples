@@ -2,6 +2,7 @@
 
 \C#
 \Microsoft Access
+\Microsoft Excel
 \VB.NET
 \VBScript and VB6
 \C#\Convert vCard to QR Code

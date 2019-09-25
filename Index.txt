@@ -13,6 +13,7 @@
 \C#\Create Simple QR Code
 \C#\Make QR Code With Image
 \Microsoft Access\Add Barcode to Report
+\Microsoft Excel\Create QR Code in Excel
 \VB.NET\Convert vCard to QR Code Barcode
 \VB.NET\Create Colored QR Code Barcode
 \VB.NET\Encode Binary Data to QR Code
